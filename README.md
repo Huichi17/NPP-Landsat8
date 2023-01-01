@@ -5,7 +5,7 @@ Net Primary Production (NPP)
 This project contains python code to estimate and map NPP using Light Use Efficiency model approach and Landsat-8.
 
 Required Data:
-1. Landsat 8 Imagery
+1. Landsat 8 Imagery (Band 4 & 5)
 2. Photosynthetically Active Radiation (PAR)
 3. Gross Primary Production (GPP)
 4. Light Use Efficiency (LUE)
