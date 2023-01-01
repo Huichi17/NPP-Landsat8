@@ -1,0 +1,4 @@
+Data LUE
+PAR 		= 7.05
+GPP		= 13.82
+LUE 		= 2.93
